@@ -46,7 +46,7 @@ MIRROR=http://mirror.mcs.anl.gov/
 SYNC=rsync://wash.firefly.michael.mol.name/gentoo-portage
 
 #HTTP proxy
-http_proxy=http://wash.firefly.michael.mol.name:8123
+#http_proxy=http://wash.firefly.michael.mol.name:8123
 
 #Mirror base path
 MIRROR_BASE_PATH=pub/gentoo/
